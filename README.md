@@ -1,0 +1,1 @@
+Une "todolist" est une liste de tâches à accomplir, généralement organisée par ordre de priorité ou par échéance. C'est un outil très utilisé pour la gestion du temps et des responsabilités
